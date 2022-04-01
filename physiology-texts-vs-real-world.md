@@ -1,6 +1,3 @@
-
-
-
 # Physiology texts and the real world
 
 Hospital accidents kill more people than highway accidents. But when people die while they are receiving standard, but irrational and antiscientific treatments and “support,” the deaths aren’t counted as accidents. The numbers are large.

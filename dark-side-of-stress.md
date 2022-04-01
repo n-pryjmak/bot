@@ -1,6 +1,3 @@
-
-
-
 # The dark side of stress (learned helplessness)
 
 Acetylcholine is the "neurotransmitter" of cholinergic nerves, including the parasympathetic system.
