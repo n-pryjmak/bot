@@ -7,6 +7,8 @@ Oncological pathologists, looking at slices of a tumor, believe they can guess
 when the cells have an evil intention. However, biologists studying living cells find that
 cells can do only what they are allowed to do by their environment.
 ---
+
+
 **Cancer: Disorder and Energy**
 According to the World Health Organization, cancer is now the leading cause of death in
 the world. Although many "causes" are known, and despite the "War on Cancer,"
