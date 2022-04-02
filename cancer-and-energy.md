@@ -1,6 +1,3 @@
-
-
-
 For every thing that lives is holy, life delights in life.... W. Blake
 ---
 Kurt Goldstein: "Life is a condition alternating between excitation, destruction
